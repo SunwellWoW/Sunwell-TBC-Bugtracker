@@ -1,4 +1,4 @@
-Decription: 
+Description: 
 
 
 How it works: 
